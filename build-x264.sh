@@ -5,7 +5,7 @@ CONFIGURE_FLAGS="--enable-static --enable-pic --disable-cli"
 ARCHS="arm64 x86_64 i386 armv7 armv7s"
 
 # directories
-SOURCE="x264"
+SOURCE="x264-snapshot-20160814-2245-stable"
 FAT="x264-iOS"
 
 SCRATCH="scratch-x264"
